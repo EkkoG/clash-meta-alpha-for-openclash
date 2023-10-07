@@ -1,12 +1,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=clash-meta-alpha-for-openclash
-PKG_VERSION:=5ff4473
+PKG_VERSION:=34b1d15
 PKG_RELEASE:=1
 
 PKG_SOURCE:=Clash.Meta-Prerelease-Alpha.tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/MetaCubeX/Clash.Meta/tar.gz/Prerelease-Alpha?
-PKG_HASH:=fbddca621e82f0a4447baab5597c771b3d302b0b6ab338c1931a345fe1244262
+PKG_HASH:=030c34669ca534eea7fb63bd9d295adfd0066996d956b1f0fd6bbc48beef0c53
 
 PKG_MAINTAINER:=EkkoG <beijiu572@gmail.om>
 PKG_LICENSE:=GPL-3.0-only
