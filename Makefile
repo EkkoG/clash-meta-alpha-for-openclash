@@ -6,7 +6,7 @@ PKG_RELEASE:=1
 
 PKG_SOURCE:=Clash.Meta-Prerelease-Alpha.tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/MetaCubeX/Clash.Meta/tar.gz/Prerelease-Alpha?
-PKG_HASH:=a26c1e5f774b406940d806b074a13b97d4592d8cad5c525137d21844408674e1
+PKG_HASH:=3b7421e3764ad108f0c85829b3fd7752c341420c1d85e88862546e324acc1e14
 
 PKG_MAINTAINER:=EkkoG <beijiu572@gmail.om>
 PKG_LICENSE:=GPL-3.0-only
