@@ -8,7 +8,7 @@ on:
 
 jobs:
   check:
-    name: Check new version of Clash.Meta
+    name: Check new version of mihomo
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
@@ -17,6 +17,6 @@ jobs:
       - uses: EkkoG/openwrt-packages-version-checker-with-tag@main
         env:
           COMMIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: MetaCubeX/Clash.Meta
+          REPO: MetaCubeX/mihomo
           BRANCH: main
           TAG: Prerelease-Alpha
