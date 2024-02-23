@@ -17,7 +17,7 @@ PKG_BUILD_DEPENDS:=golang/host
 PKG_BUILD_PARALLEL:=1
 PKG_USE_MIPS16:=0
 
-GO_PKG:=github.com/Dreamacro/clash
+GO_PKG:=github.com/metacubex/mihomo
 GO_PKG_BUILD_PKG:=$(GO_PKG)
 GO_PKG_LDFLAGS_X:= \
 	$(GO_PKG)/constant.Version=$(PKG_VERSION)
