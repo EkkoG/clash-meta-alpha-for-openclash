@@ -1,12 +1,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=clash-meta-alpha-for-openclash
-PKG_VERSION:=7923f1a
+PKG_VERSION:=428b7ad
 PKG_RELEASE:=1
 
 PKG_SOURCE:=mihomo-Prerelease-Alpha.tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/MetaCubeX/mihomo/tar.gz/Prerelease-Alpha?
-PKG_HASH:=1ec6ed8b17f253a6374af07f3af05061dda69ab68a4b56cd2e3d4f3ce3f243cb
+PKG_HASH:=520e1d6122457b7d4a069f88d682421c76443d381d9489d2fedfa278a2fc386a
 
 PKG_MAINTAINER:=EkkoG <beijiu572@gmail.om>
 PKG_LICENSE:=GPL-3.0-only
